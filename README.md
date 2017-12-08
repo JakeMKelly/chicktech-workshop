@@ -13,7 +13,7 @@
 ## What You Will Need
 *  [Amazon Developer Portal Account](http://developer.amazon.com)
 *  [Amazon Web Services Account](http://aws.amazon.com/)
-*  The sample code on [GitHub](https://github.com/alexa/skill-sample-nodejs-fact).
+*  The sample code on [GitHub](https://github.com/JakeMKelly/chicktech-workshop).
 *  Simple graphical editing tool
 *  At least 25 facts about your favorite topic.
 
