@@ -25,7 +25,7 @@ In the [first step of this guide](./1-voice-user-interface.md), we built the Voi
 
     <!-- <img src="https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexa-skills-kit/tutorials/fact/2-5-blueprint._TTH_.png" />  <!--TODO: THIS IMAGE NEEDS TO BE CUSTOMIZED FOR YOUR SKILL TEMPLATE, THIS ONE IS OUT OF DATE. -->
 
-6.  **Configure your function.** This screen is where we will enter the important parts of our Lambda function.  These values will only ever be visible to you, but make sure that you name your function something meaningful.  "QuizGame" is sufficient if you don't have another idea for a name.
+6.  **Configure your function.** This screen is where we will enter the important parts of our Lambda function.  These values will only ever be visible to you, but make sure that you name your function something meaningful.  "SpaceFacts" is sufficient if you don't have another idea for a name.
 
     <img src="https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexa-skills-kit/tutorials/general/2-7-configure-your-function._TTH_.png" />
 
@@ -47,7 +47,7 @@ In the [first step of this guide](./1-voice-user-interface.md), we built the Voi
 
     <!-- <img src="https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexa-skills-kit/tutorials/general/2-6-configure-your-trigger._TTH_.png" /> TODO: THIS SCREENSHOT IS OUT OF DATE-->
 
-    Once you have selected Alexa Skills Kit, scroll down and click the **Add** button. Then click the **Save** button in the top right. You should see a green success message at the top of your screen. Now, click the box that has the Lambda icon followed by the name of your function (QuizGame if you used our suggestion) then scroll down to verify the code you pasted in the previous step is in the field called "Function code". 
+    Once you have selected Alexa Skills Kit, scroll down and click the **Add** button. Then click the **Save** button in the top right. You should see a green success message at the top of your screen. Now, click the box that has the Lambda icon followed by the name of your function (SpaceFacts if you used our suggestion) then scroll down to verify the code you pasted in the previous step is in the field called "Function code". 
 
 
 
